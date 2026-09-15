@@ -330,7 +330,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ==========================================================================
   // GOOGLE SHEET & LEAD MODALS (WITH 24-HOUR DUPLICATE PHONE CHECK)
   // ==========================================================================
-  const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyIjLXkA_1olzu_UkREs7hHDgX-jUKCyFYtOJeTOHFrn_NtKK3o91GaXazpqOZoGdsy/exec';
+  const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzHj7Zm62KwC1xK-x1t3OQLD5WT6AQx6HI2UKaOT3Ds4XEJTnnEtZeRxR94dc8V0AQhyg/exec';
 
   const callbackModal = document.getElementById('callbackModal');
   const callbackModalClose = document.getElementById('callbackModalClose');
