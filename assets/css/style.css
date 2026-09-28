@@ -397,9 +397,9 @@ textarea {
 }
 
 .brand-logo-img {
-  height: 52px;
+  height: 46px;
   width: auto;
-  max-width: 170px;
+  max-width: 220px;
   object-fit: contain;
   display: block;
   transition: transform 0.3s ease;
@@ -2553,7 +2553,7 @@ textarea {
 .faq-brand-logo {
   height: 52px;
   width: auto;
-  max-width: 180px;
+  max-width: 250px;
   object-fit: contain;
   display: inline-block;
   transition: transform 0.3s ease;
